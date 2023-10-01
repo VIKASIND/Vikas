@@ -1,1 +1,65 @@
-sd
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #333;
+        }
+        /* Add more CSS styles for your resume sections */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </header>
+    
+    <section>
+        <h2>Contact Information</h2>
+        <ul>
+            <li>Email: your@email.com</li>
+            <li>Phone: (123) 456-7890</li>
+            <li>Website: <a href="https://www.yourwebsite.com">www.yourwebsite.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a></li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Summary</h2>
+        <p>A motivated web developer with experience in HTML, CSS, and JavaScript. Strong problem-solving skills and a passion for creating responsive and user-friendly websites.</p>
+    </section>
+    
+    <section>
+        <h2>Education</h2>
+        <p>BS in Computer Science<br>University of Example</p>
+        <p>Graduated: May 20XX</p>
+    </section>
+    
+    <section>
+        <h2>Experience</h2>
+        <h3>Web Developer Intern</h3>
+        <p>Company ABC, Anytown, USA<br>June 20XX - August 20XX</p>
+        <ul>
+            <li>Assisted in the development of responsive web applications.</li>
+            <li>Collaborated with the design team to implement website layouts and user interfaces.</li>
+        </ul>
+        
+        <h3>Freelance Web Designer</h3>
+        <p>Self-Employed<br>January 20XX - Present</p>
+        <ul>
+            <li>Designed and developed websites for various clients, focusing on user experience and mobile responsiveness.</li>
+            <li>Managed client communications, project timelines, and budgets.</li>
+        </ul>
+    </section>
+    
+    <!-- Add more sections for skills, projects, certifications, etc. -->
+    
+</body>
+</html>
