@@ -9,8 +9,6 @@ const card = document.querySelector('.card');
 const loader = document.getElementById('loader');
 const loaderText = document.getElementById('loader-text')
 
-Checks this html code any errors, and be remember I will send you css is codes also 
-
 function load(){
   const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890';
   let interval = null;
